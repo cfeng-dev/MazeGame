@@ -1,0 +1,5 @@
+## Ignore build results and temporary files
+
+.vs/
+bin/
+obj/
